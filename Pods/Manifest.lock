@@ -1,0 +1,53 @@
+PODS:
+  - Alamofire (4.9.1)
+  - MJRefresh (3.3.1)
+  - "NSObject+Rx (5.0.2)":
+    - RxSwift (~> 5.0)
+  - ObjectMapper (3.5.1)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - SDWebImage (5.4.2):
+    - SDWebImage/Core (= 5.4.2)
+  - SDWebImage/Core (5.4.2)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - MJRefresh
+  - "NSObject+Rx"
+  - ObjectMapper (~> 3.4)
+  - RxCocoa (~> 5)
+  - RxSwift (~> 5)
+  - SDWebImage (~> 5.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MJRefresh
+    - "NSObject+Rx"
+    - ObjectMapper
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  MJRefresh: eeda70fbf0ad277f3178cef1cd0c3532591d6237
+  "NSObject+Rx": 2eb2cf51fd1c554118449a7fbc36e4cd620b9e94
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  SDWebImage: 4ca2dc4eefae4224bea8f504251cda485a363745
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: e0ec4d7b59a7e6de7bf86fd2205c461b261d8a83
+
+COCOAPODS: 1.8.4
