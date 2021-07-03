@@ -5,7 +5,7 @@ inhibit_all_warnings!
 # 版本库，需要使用swift兼容
  use_frameworks!
 
-target 'SwiftDemo' do
+target 'SwiftFrame' do
   # Comment the next line if you don't want to use dynamic frameworks
   pod 'SwiftyJSON', '~> 4.0'
   pod 'SDWebImage', '~> 5.0'
@@ -17,12 +17,12 @@ target 'SwiftDemo' do
   pod 'ObjectMapper', '~> 3.4'
 #  pod 'SwiftyDB'
 
-  target 'SwiftDemoTests' do
+  target 'SwiftFrameTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'SwiftDemoUITests' do
+  target 'SwiftFrameUITests' do
     # Pods for testing
   end
 
